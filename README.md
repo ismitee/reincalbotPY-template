@@ -22,7 +22,7 @@
 ## ⚡ Quick Start (2 Minutes)
 1. **Clone/Setup**:
    ```
-   git clone <repo>  # Or just use these files!
+   git clone <https://github.com/Calrexon/reincalbotPY-template>  # Or just use these files!
    cd reincalbotPY-template
    ```
 
